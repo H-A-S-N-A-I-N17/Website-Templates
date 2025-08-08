@@ -1,5 +1,5 @@
 ## 📜 General Description
-This repository is essentially a **portfolio of mini website templates** — each themed differently: fashion, restaurant and gardening.  
+This repository is essentially a **portfolio of mini website templates** — each themed differently: fashion, image gallery, restaurant and gardening.  
 
 They are:
 - Built primarily with **HTML** and **CSS**
@@ -53,6 +53,18 @@ A restaurant or café website design featuring custom branding, logos, and elega
 
 **Description:**  
 A gardening and landscaping service site with high-quality imagery and a professional look.
+
+---
+
+## 4. Image Gallery
+**Files:**
+
+-`index.html`
+-`styles.css`
+-`assets/ (contains 9 sample images)`
+
+**Description:**
+A minimal gallery design for displaying images in a grid layout, ideal for photography or portfolio sites.
 
 ---
 
