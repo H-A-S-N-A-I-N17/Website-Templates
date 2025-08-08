@@ -1,5 +1,5 @@
 ## 📜 General Description
-This repository is essentially a **portfolio of mini website templates** — each themed differently: fashion, restaurant, gardening, and productivity.  
+This repository is essentially a **portfolio of mini website templates** — each themed differently: fashion, restaurant and gardening.  
 
 They are:
 - Built primarily with **HTML** and **CSS**
@@ -56,13 +56,3 @@ A gardening and landscaping service site with high-quality imagery and a profess
 
 ---
 
-## 4. To Do List
-**Files:**  
-- `index.html`  
-- `style.css`  
-- `Readme.md`  
-
-**Description:**  
-A simple productivity tool for managing daily tasks. Primarily HTML/CSS; could be extended with JavaScript.
-
----
